@@ -22,7 +22,7 @@ CallMeBot Library for ESP
 ## 💻 Usage
 ### initialization
 ```cpp
-#include <Callmebot_ESP8266.h>
+#include <Callmebot_ESP_Client.h>
 ```
 ### WhatsApps Massage
 Send Whatapps message  
